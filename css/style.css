@@ -183,7 +183,7 @@ hr {
 	box-sizing: bosder-box;
 }
 
-.bg-green.btn {
+.bg-green .btn {
 	display: block;
 	text-align: center;
 	max-width: 166px;
